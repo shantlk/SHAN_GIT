@@ -1,2 +1,0 @@
-Workstation - Workflow - GIT–  ‘PUSH’ action execution fails when the password contains following special characters
-@ % “ ? /
